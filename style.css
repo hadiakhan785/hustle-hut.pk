@@ -121,11 +121,13 @@ li:nth-child(4) a::after {
 section{
   background-color: #fafafa;
   padding: 1em 2.5em;
-  margin: 1em;
+  margin: 2.5em;
 }
 
 #about{
   font-family: 'Roboto Condensed', sans-serif;
+  padding-top: 4em;
+  
 }
 
 #about > p{
@@ -171,7 +173,6 @@ ul{
 .product-price{
   font-weight: bold;
   font-size: 1em !important;
-  
 }
 
 .price{
