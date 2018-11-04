@@ -44,7 +44,7 @@ let products = [
   {
     productName: "Scivation Xtend BCAA Powder, Branched Chain Amino Acids, BCAAs, 30 Servings",
     imgURL: "slider-pic-2.jpg",
-    productDetail: "<li>7g of BCAAs - 2:1:1 Research-Proven Ratio to Help Support Muscle Growth & Strength</li> <li>Sugar Free, Carbohydrate Free & Zero Calories</li> <li>3.5g of Leucine for Muscle Protein Synthesis</li> <li>2.5g of L-Glutamine & 1g of Citrulline Malate</li> <li>Stay Hydrated Pre-, During, and Post Workout with Electrolytes in Xtend</li>",
+    productDetail: "<li>Sugar Free, Carbohydrate Free & Zero Calories, helps muscles growth and strength</li> <li>3.5g of Leucine for Muscle Protein Synthesis</li> <li>2.5g of L-Glutamine & 1g of Citrulline Malate</li> <li>Stay Hydrated Pre-, During, and Post Workout with Electrolytes in Xtend</li>",
     price: "Rs. 3200/-"
   }
 ];

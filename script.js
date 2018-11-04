@@ -31,11 +31,9 @@ function init() {
                         <img class="card-img-top" src="images/${products[i].imgURL}" alt="Card image cap">
                         <div class="card-body">
                             <h6 class="card-title">${products[i].productName}</h6>
-                            <p class="card-text">
-                                <ul class="product-details">
+                                <ul class="product-details card-text">
                                     ${products[i].productDetail}
                                 </ul>
-                            </p>
                             <p class="card-text product-price">Price: <span class="price">${products[i].price}</span></p>
                         </div>
                     </div>`;
