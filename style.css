@@ -161,6 +161,7 @@ section{
 
 .card-title:hover{
   cursor: pointer;
+  color: #ffc425;
 }
 
 ul{
@@ -169,6 +170,8 @@ ul{
 
 .product-price{
   font-weight: bold;
+  font-size: 1em !important;
+  
 }
 
 .price{
@@ -177,11 +180,6 @@ ul{
 
 .product-details li{
   font-size: 0.7em !important;
-}
-
-.product-price{
-  font-size: 0.7em !important;
-  
 }
 
 .product-container{
