@@ -188,6 +188,17 @@ ul {
   flex-wrap: wrap;
 }
 
+.main-container > footer {
+  grid-column: 1 /-1;
+  background-color: #0a0a0a;
+  height: 200px;
+}
+
+footer div p {
+  color: #fafafa;
+  text-align: center;
+}
+
 @media screen and (max-width: 768px) {
   .swiper-container {
     width: 100%;
@@ -259,11 +270,18 @@ ul {
     margin-bottom: 0;
   }
 
-  .product-price{
-    margin-top: auto;
-  }
 }
 
-/* @media screen and (max-width: 378px){
+@media screen and (max-width: 353px){
+  .card-body{
+    padding: 2px;
+  }
 
-} */
+  .card{
+    height: fit-content;
+  }
+
+  .product-price{
+    margin-left: 0.5em;
+  }
+} 
